@@ -1,5 +1,5 @@
 # Invictus Money Wash
-Script provides a way for players to wash their hard earned dirty money
+Script provides a way for players to wash their hard earned dirty money<br>
 Open an issue with any bugs you find and I will work on them as soon as I can!
 
 # Installation
